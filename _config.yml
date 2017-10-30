@@ -1,0 +1,35 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: ""
+title: IDM4SCO
+email: idm4sco@inria.fr
+author: TODO
+description: TODO
+copyright: 'Copyright &copy; 2017-2020. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/gemocinitiative
+  - title: github
+    url: https://github.com/gemoc
+  - title: comment
+    url: mailto:idm4sco@inria.fr
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
