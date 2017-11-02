@@ -6,4 +6,4 @@ title: Presentation
 description: |
 ---
   
-The French XXXX brings together researchers from different scienfic fields (e.g., computer science and environmental sciences), with a common interest in the use of Model-Driven Engineering (MDE) to build software related to complex systems.
+The French XXXX group brings together researchers from different scienfic fields (e.g., computer science, computational science & environmental sciences), with a common interest in the use of Model-Driven Engineering (MDE) to build software related to complex systems.
