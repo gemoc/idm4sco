@@ -1,6 +1,6 @@
 ---
 layout: default
-img: collab.png
+img: context.png
 category: Services
 title: Presentation
 description: |
