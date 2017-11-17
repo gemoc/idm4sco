@@ -1,6 +1,6 @@
 ---
 layout: default
-img: modeling.jpg
+img: context.png
 category: Services
 title: Objectives
 description: |
