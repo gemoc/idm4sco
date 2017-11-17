@@ -5,4 +5,4 @@ category: Services
 title: Objectives
 description: |
 ---
-IDM4SCO aims to ...
+IDM4SCO aims to support collaborations among the partners working in MDE applied to complex systems, and to promote the use of modeling techniques near to modellers (eg, scientist). 
