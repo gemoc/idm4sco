@@ -5,4 +5,4 @@ category: Services
 title: Objectives
 description: |
 ---
-TODO
+IDM4SCO aims to ...
