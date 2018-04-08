@@ -6,7 +6,7 @@ url: ""
 title: IDM4SCO
 email: idm4sco@inria.fr
 author: RNSC
-description: French XXXX
+description: French Research Network on Model-Driven Engineering for Complex Systems
 copyright: 'Copyright &copy; 2017-2020. All Rights Reserved.'
 
 # ----------------------- #
@@ -22,8 +22,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/gemocinitiative
+#  - title: twitter
+#    url: https://twitter.com/gemocinitiative
   - title: github
     url: https://github.com/gemoc
   - title: comment
