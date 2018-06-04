@@ -6,4 +6,4 @@ title: Presentation
 description: |
 ---
   
-IDM4SCO, the _French Research Network on Model-Driven Engineering for Complex Systems_ brings together researchers from Computational Science and Computer Science working in different fields (climate change, biology, epidemiology, agronomy, etc ...), with a common interest in the use of Model-Driven Engineering (MDE) to build software related to complex systems.
+IDM4SCO, the _French Research Network on Model-Driven Engineering for Complex Systems_, brings together researchers from Computational Science and Computer Science working in different fields (climate change, biology, epidemiology, agronomy, etc.), with a common interest in the use of Model-Driven Engineering (MDE) to build software related to complex systems.
