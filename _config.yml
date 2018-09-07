@@ -2,6 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
+url: "http://gemoc.org"
 baseurl: "/idm4sco"
 title: IDM4SCO
 email: idm4sco@inria.fr
